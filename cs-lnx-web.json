@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/Rishdata/AZ-Files/main/install-lnx-web-srv.sh"],
+  "commandToExecute": "./install-lnx-web-srv.sh"
+}

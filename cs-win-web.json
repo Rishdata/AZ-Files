@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/Rishdata/AZ-Files/main/install-win-web-srv.ps1"],
+  "commandToExecute": "./install-win-web-srv.ps1"
+}
