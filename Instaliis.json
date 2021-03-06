@@ -1,4 +1,0 @@
-{
-  "fileUris": ["https://raw.githubusercontent.com/Rishdata/AZ-Files/main/Installiis.ps1"],
-  "commandToExecute": "powershell.exe ./Installiis.ps1"
-}
